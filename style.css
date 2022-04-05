@@ -13,6 +13,10 @@ button {
     outline: none!important;
 }
 
+a-footer{
+    margin: 16px 0px
+}
+
 a:hover {
     text-decoration: none;
     cursor: pointer;

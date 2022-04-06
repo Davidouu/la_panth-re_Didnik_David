@@ -13,6 +13,27 @@ body {
     padding: 13px 0px !important;
 }
 
+@media (min-width: 634px) {
+    .img-text-1{
+        width:100%;
+    }
+}
+ 
+ 
+@media (min-width: 567px) {
+    .img-text-2{
+        width:100%;
+    }
+}
+    
+            
+@media (min-width: 476px) {
+    .img-text-3{
+        width:100%;
+    }
+}
+ 
+
 a,
 button {
     transition: all .3s ease-in-out;
